@@ -1,7 +1,7 @@
 /*Блок с form*/
 .container_form .form_block {
   min-height: 200px;
-  background: #18aebcab;
+  background: #18aebc;
 }
 .container_form .form_block .form_block_in {
   padding: 33px 56px;
